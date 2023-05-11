@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="result">Result</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="add">add</string>
+    <string name="divide">divide</string>
+</resources>
